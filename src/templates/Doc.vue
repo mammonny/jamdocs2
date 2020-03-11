@@ -15,6 +15,7 @@ query Doc ($path: String!) {
     date (format: "D. MMMM YYYY")
     timeToRead
     content
+    meta-title
   }
 }
 </page-query>
@@ -23,7 +24,7 @@ query Doc ($path: String!) {
 export default {
   metaInfo() {
     return {
-      title: this.$page.doc.title,
+      title: this.$page.doc.meta-title,
       meta: [
         { name: "description", content: this.$page.doc.title },
       ]
