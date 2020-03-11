@@ -26,7 +26,7 @@ export default {
     return {
       title: this.$page.doc.metatitle,
       meta: [
-        { name: "description", content: this.$page.doc.title },
+        { name: "description", content: this.$page.doc.metadescription },
       ]
     }
   }
