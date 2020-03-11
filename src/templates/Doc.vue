@@ -23,9 +23,9 @@ query Doc ($path: String!) {
 export default {
   metaInfo() {
     return {
-      title: this.doc.title,
+      title: this.$page.doc.title,
       meta: [
-        { key: 'description', name: 'description', content: "{{ doc.meta-description }}" }
+        { name: "description", content: this.$page.doc.title },
       ]
     }
   }
