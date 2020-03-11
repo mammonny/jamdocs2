@@ -18,14 +18,6 @@ Sí, hay metodos para hackear Instagram, tanto la cuenta como la contraseña. Pe
 
 Conozcamos los métodos…
 
-Índice
-
-* [Hackear una cuenta de Instagram sin encuestas](https://espiaruncelular.com/hackear-instagram/#Hackear_una_cuenta_de_Instagram_sin_encuestas "Hackear una cuenta de Instagram sin encuestas")
-* [Cómo hackear el password de Instagram con pishing](https://espiaruncelular.com/hackear-instagram/#Como_hackear_el_password_de_Instagram_con_pishing "Cómo hackear el password de Instagram con pishing")
-* [Espiar Instagram con una aplicación espía](https://espiaruncelular.com/hackear-instagram/#Espiar_Instagram_con_una_aplicacion_espia "Espiar Instagram con una aplicación espía")
-* [Crackear la contraseña de Instagram por fuerza bruta](https://espiaruncelular.com/hackear-instagram/#Crackear_la_contrasena_de_Instagram_por_fuerza_bruta "Crackear la contraseña de Instagram por fuerza bruta")
-* [Páginas para Hackear Insta sin tarjeta de crédito](https://espiaruncelular.com/hackear-instagram/#Paginas_para_Hackear_Insta_sin_tarjeta_de_credito "Páginas para Hackear Insta sin tarjeta de crédito")
-
 ## Hackear una cuenta de Instagram sin encuestas
 
 Para usar este método necesitarás un requisito previo el cual quizá no te sea posible; necesitarás tener acceso físico al celular de la víctima. Con lo cual quizá no sea un método apropiado para todo el mundo.
@@ -91,7 +83,7 @@ Para realizar con éxito este método **necesitarás un ordenador con Linux en u
 
 1. Abre un terminal de linux
    1. Escribe el siguiente código en el terminal:  
-      `git clone `[`https://github.com/Ethical-H4CK3R/Instagram.git`](https://github.com/Ethical-H4CK3R/Instagram.git "https://github.com/Ethical-H4CK3R/Instagram.git")
+      `git clone`[`https://github.com/Ethical-H4CK3R/Instagram.git`](https://github.com/Ethical-H4CK3R/Instagram.git "https://github.com/Ethical-H4CK3R/Instagram.git")
    2. Concede los permisos adecuados y accede a la aplicación con el siguiente código:  
       `chmod -R 755 Instagram`  
       `cd Instagram`
