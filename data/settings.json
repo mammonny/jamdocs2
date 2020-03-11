@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "Hackear",
+      "topics": [
+        {
+          "title": "Hackear Instagram",
+          "slug": "hackear-instagram"
+        }
+      ]
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
