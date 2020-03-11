@@ -23,9 +23,9 @@ query Doc ($path: String!) {
 export default {
   metaInfo() {
     return {
-      title: aupa,
+      title: "aupa",
       meta: [
-        { key: 'description', name: 'description', content: bebe }
+        { key: 'description', name: 'description', content: "bebe" }
       ]
     }
   }
