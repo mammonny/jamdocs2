@@ -2,8 +2,6 @@
 title: Hackear Instagram
 date: 2020-03-10
 slug: hackear-instagram
-meta-title: lol
-meta-description: lol
 metatitle: "1231"
 metadescription: "1231"
 
