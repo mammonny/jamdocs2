@@ -2,6 +2,8 @@
 title: Forestry CMS
 date: 2020-01-02
 slug: forestry-cms
+meta-title: "85"
+meta-description: "75"
 
 ---
 ## Import starter
