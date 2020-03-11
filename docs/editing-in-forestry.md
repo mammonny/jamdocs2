@@ -2,8 +2,6 @@
 title: Forestry CMS
 date: 2020-01-02
 slug: forestry-cms
-meta-title: '85'
-meta-description: '75'
 metatitle: "3214"
 metadescription: "23143124"
 
