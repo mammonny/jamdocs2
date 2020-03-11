@@ -25,7 +25,7 @@ export default {
     return {
       title: "{{ doc.meta-title }}",
       meta: [
-        { key: 'description', name: 'description', content: {{ doc.meta-description }}" }
+        { key: 'description', name: 'description', content: "{{ doc.meta-description }}" }
       ]
     }
   }
