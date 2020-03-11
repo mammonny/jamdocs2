@@ -2,8 +2,10 @@
 title: Getting started
 date: 2018-09-15T07:42:34.000+00:00
 slug: getting-started
-meta-title: "33"
-meta-description: "58"
+meta-title: '33'
+meta-description: '58'
+metatitle: "12313"
+metadescription: "1231"
 
 ---
 ## What is Jamdocs
