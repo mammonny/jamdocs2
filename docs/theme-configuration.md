@@ -4,6 +4,8 @@ date: 2018-09-15T07:42:34.000+00:00
 slug: theme-configuration
 meta-title: asa
 meta-description: asa
+metatitle: "1234"
+metadescription: "124314"
 
 ---
 ## Changing logo
